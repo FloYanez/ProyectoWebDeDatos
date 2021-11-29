@@ -1,0 +1,6 @@
+# virtualenv
+.venv
+venv/
+ENV/
+
+data/*
